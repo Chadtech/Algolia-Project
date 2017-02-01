@@ -11,4 +11,4 @@ If you want to get this running locally, try
 npm install
 elm package install
 gulp
-``
+```
